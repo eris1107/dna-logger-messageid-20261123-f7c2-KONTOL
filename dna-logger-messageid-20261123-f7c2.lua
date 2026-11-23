@@ -538,7 +538,7 @@ local MUTATIONS = {
     "Color Burn",
     "Corrupt",
     "Cosmic",
-    "Crystallized",
+    "Crystalized",
     "Disco",
     "Duskbreaker",
     "Elemental",
